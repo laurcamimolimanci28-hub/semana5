@@ -1,0 +1,3 @@
+Una API es una forma organizada para que una página web y un servidor se comuniquen.
+
+En esta clase, la API permite que el formulario comunitario envíe propuestas al servidor y que el servidor las guarde en un archivo JSON.
